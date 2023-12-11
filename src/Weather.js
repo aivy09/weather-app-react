@@ -70,7 +70,7 @@ export default function Weather() {
 
         <small>
           <a
-            href="https://github.com/aivy09/SheCodes-Weather-App"
+            href="https://github.com/aivy09/weather-app-react"
             target="_blank"
             rel="noreferrer"
           >
